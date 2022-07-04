@@ -1,0 +1,2 @@
+otree==3.4.0
+otree-redwood==0.9.4
