@@ -33,4 +33,3 @@ Go to the project's root directory and run:
 ### 2. Start Otree
 
 `otree devserver`
-
