@@ -2,12 +2,11 @@ from os import environ
 
 SESSION_CONFIGS = [
     dict(
-        name='coordination_game',
-        display_name='Coordination Games',
+        name='stochastic_bimatrix',
+        display_name='Stochastics Bimatrix',
         num_demo_participants=2,
-        app_sequence=['coordination_game'],
+        app_sequence=['stochastic_bimatrix'],
         config_file='demo.csv',
-        num_silos=1,
     ),
 ]
 
